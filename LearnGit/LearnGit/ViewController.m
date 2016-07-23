@@ -18,6 +18,8 @@
     [super viewDidLoad];
     NSString *str = @"我是一个好孩子";
     NSString *str2 = @"第二次练习";
+    NSString *str3 = @"第三次修改 1";
+    NSString *str4 = @"第三次修改 2";
     NSLog(@"123432");
     
     // Do any additional setup after loading the view, typically from a nib.
