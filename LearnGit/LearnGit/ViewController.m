@@ -16,8 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSString *str;
+    NSString *str = @"我是一个好孩子";
     NSLog(@"123432");
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
