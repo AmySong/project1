@@ -20,8 +20,8 @@
     NSString *str2 = @"第二次练习";
     NSString *str3 = @"第三次修改 1";
     NSString *str4 = @"第三次修改 2";
-    NSLog(@"123432");
     
+    //创建了 dev分支
     // Do any additional setup after loading the view, typically from a nib.
 }
 
